@@ -1,0 +1,17 @@
+Computer algebra
+
+Eigenmath is an open-source computer algebra system primarily developed for mobile devices. It's designed to provide symbolic mathematics capabilities on platforms such as Android and iOS. Eigenmath is a lightweight and portable alternative for performing symbolic mathematics on smartphones and tablets.
+
+Eigenmath includes features like equation solving, symbolic differentiation, integration, simplification of expressions, and various mathematical functions. While it may not have the extensive capabilities of some desktop-based computer algebra systems, it offers a practical solution for performing mathematical calculations and algebraic manipulations on mobile devices.
+
+Eigenmath is often used by students, educators, and individuals who want a convenient way to perform symbolic math on their mobile devices without the need for a full-fledged computer algebra system. It provides a basic but useful tool for mathematical tasks on the go.
+
+Yacas, short for "Yet Another Computer Algebra System," is an open-source computer algebra system designed for symbolic computation and algebraic manipulation of mathematical expressions. Yacas was created to provide a free and extensible alternative to other commercial computer algebra systems.
+
+Key features of Yacas include symbolic simplification, equation solving, calculus operations, and support for a wide range of mathematical functions. Yacas is particularly useful for tasks involving symbolic mathematics and algebra, making it valuable for students, educators, and researchers who need a free and open-source tool for mathematical calculations and symbolic manipulation.
+
+Yacas is available on various platforms and can be used through a command-line interface or integrated into other software and programming environments. It's part of the ecosystem of open-source computer algebra systems that aim to make mathematical computations accessible to a broader audience.
+
+Mathcad is indeed another notable computer algebra system that was first introduced in the 1980s. It's known for its ability to combine mathematical notation with computational capabilities, making it popular in engineering, science, and technical fields. Mathcad allows users to create mathematical documents that include equations, graphs, text, and calculations. It's often used for symbolic mathematics, solving mathematical problems, and documenting engineering calculations.
+
+Mathcad provides a user-friendly interface for working with mathematical and scientific notations, making it easier for engineers and scientists to perform calculations and create comprehensive documentation. While it may not be as widely used as some of the other systems like Mathematica or Maple, Mathcad has found its niche in specific industries and remains a valuable tool for many professionals.
